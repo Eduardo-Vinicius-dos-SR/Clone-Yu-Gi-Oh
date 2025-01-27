@@ -5,7 +5,7 @@
 Live site [GitHub Pages](https://eduardo-vinicius-dos-sr.github.io/Clone-Yu-Gi-Oh/)
 
 
-Criadores - Dev em Dobro 
+Criadores - Dev em Dobro                    
  [Youtube](https://youtube.com/@devemdobro?si=yZBt1kJ_hKE7WiVZ)
 
 [Instagram](https://www.instagram.com/devemdobro/#)
