@@ -38,12 +38,21 @@
 
 @media(max-width: 375px) {
     body {
-        justify-content: start;
+        justify-content: center;
+        align-items: center;
         padding-top: 10px;
         gap: 10px;
+        padding: 20px 0;
     }
 
     .cabecalho {
         font-size: 1.2rem;
+    }
+}
+
+@media(max-height: 496px) {
+    body {
+        background-position: center center;
+        background-attachment: fixed;
     }
 }
