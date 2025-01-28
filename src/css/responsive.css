@@ -12,10 +12,16 @@
 @media(max-width: 496px) {
     .lista-personagens {
         width: 250px;
+    } 
+
+    .cartao{
+        position: absolute;
+        left: 0;
+        top: 0;
     }
 
-    .image-carta {
-        width: 100%;
+    .imagem-carta{
+        width: 220px;
     }
 
     .slider {
@@ -24,22 +30,20 @@
 
     .btn-seta {
         position: absolute;
-        bottom: -18%;
+        bottom: -12%;
     }
 
     #btn-avancar {
-        right: 5%;
+        right: 10%;
     }
 
     #btn-voltar {
-        left: 20%;
+        left: 10%;
     }
 }
 
 @media(max-width: 375px) {
     body {
-        justify-content: center;
-        align-items: center;
         padding-top: 10px;
         gap: 10px;
         padding: 20px 0;

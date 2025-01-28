@@ -1,5 +1,5 @@
 body {
-    min-height: 100vh;
+    min-height: 100dvh;
     justify-content: center;
     display: flex;
     align-items: center;
@@ -17,7 +17,7 @@ body {
 }
 
 .cabecalho .titulo {
-    color: #f1ecff
+    color: #f1ecff;
 }
 
 .cartao {
